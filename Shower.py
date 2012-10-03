@@ -3,7 +3,7 @@ Created on Sep 16, 2012
 
 @author: Simon
 '''
-from Drawable import *
+from Shapes import *
 
 import pygame
 import time
